@@ -1,0 +1,6 @@
+1. pelanggan bisa input order (input-order.php)
+2. pelanggan bisa lihat order yang belum terkirim (dataorder.php), lihat detail data yang belum terkirim (detail-order.php)
+   ubah order yang belum dikirim (editorder.php) dan hapus order
+3. pelanggan bisa lihat order yang sudah terkirim (orderterkirim.php), lihat detail order yang sudah terkirim 
+   (detail-orderterkirim.php)
+4. pelanggan bisa lihat profile (detail-pelanggan.php) dan edit profile (edit-profilepelanggan.php)

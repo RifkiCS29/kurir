@@ -1,0 +1,5 @@
+1. kurir bisa melihat semua order yang belum terkirim (dataorder.php)  lihat detail data order (detail-order.php)
+   dan aksinya yakni ambil order dengan memberikan harga dan mengganti status menjadi dalam pengiriman (ambilorder.php) 
+2. tiap kurir hanya bisa memilih 1 order dan akan tertera di ubah status order (ubah-status-order.php)
+3. kurir bisa melihat data order yang sudah mereka kirimkan (orderterkirim.php) dan lihat detailnya (detail-orderterkirim.php)
+4. kurir bisa melihat profile mereka (detail-kurir.php) dan edit profile (edit-profilekurir.php)

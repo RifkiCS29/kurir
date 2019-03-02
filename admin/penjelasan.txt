@@ -1,0 +1,6 @@
+Admin
+1. admin bisa lihat data kurir (datakurir.php), edit data kurir (editkurir.php), detail kurir(detail-kurir.php)
+   dan bisa tambah data kurir (input-kurir.php) serta hapus kurir.
+2. admin bisa lihat data pelanggan (datapelanggan.php) dan lihat detail pelanggan (detail-pelanggan.php)
+3. admin bisa lihat data transaksi (datatransaksi.php) dan bisa lihat detail transaksi (detail-transaksi.php)
+4. bisa lihat profile admin (detail-admin) dan edit data admin (edit-profileadmin.php)
