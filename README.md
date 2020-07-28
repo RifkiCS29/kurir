@@ -7,7 +7,7 @@ Cara menjalankan project ini :
 3. Akses project ini dengan localhost/kurir
 4. Pastikan XAMPP anda sudah running
 
-![01 Halaman Home](https://github.com/RifkiCS29/laravel-crud/blob/master/public/img/mahasiswa.png)
+![01 Halaman Home](https://github.com/RifkiCS29/kurir/blob/master/images/screenshots/home.png)
 ![02 Halaman Admin: Data Kurir](https://github.com/RifkiCS29/kurir/blob/master/images/screenshots/dataKurir.png)
 ![03 Halaman Admin: Data Pelanggan](https://github.com/RifkiCS29/kurir/blob/master/images/screenshots/dataPelanggan.png)
 ![04 Halaman Admin: Data Transaksi](https://github.com/RifkiCS29/kurir/blob/master/images/screenshots/dataTransaksi.png)
